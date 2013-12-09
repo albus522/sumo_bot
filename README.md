@@ -38,3 +38,11 @@ This will be the device file to reference at the top of servo.rb
 ## Running
 
     $ ruby leap.rb | ruby servo.rb
+
+## Controlling
+
+The direction of the bot is controlled by the tilt of your palm.
+
+Tilt your palm forward and the bot moves forward.
+
+Tilf your palm to the left and the bot turns left.
